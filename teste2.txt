@@ -4,3 +4,5 @@ Criando arquivo txt.
 Adicionando nova linha pelo próprio terminal
 
 Adicionando linha direto do site para receber lá no local. Funcionou?
+
+FUNCIONOU!!!!
