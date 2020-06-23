@@ -1,2 +1,4 @@
 Testando agora pelo terminal.
 Criando arquivo txt.
+
+Adicionando nova linha pelo próprio terminal
